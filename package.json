@@ -22,7 +22,7 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "broccoli-favicon": "~2.1.1",
+    "broccoli-favicon": "git://github.com/wambaloo/broccoli-favicons.git#wishgroupe",
     "broccoli-merge-trees": "3.0.2",
     "broccoli-string-replace": "^0.1.2",
     "ember-cli-babel": "7.7.3",
